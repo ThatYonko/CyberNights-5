@@ -6,7 +6,7 @@ By writting `http` in the display filter,
 <br>
 we get 61 http packets that contains requests to `images, and flagyard & kali-linux sites`.
 
-![Screenshot (36)](https://github.com/SultanCYB/CyberNights-5/assets/107263975/0c893f5e-7652-41ae-93c6-24425ab45e04)
+![Screenshot (36)](https://github.com/thatyonko/CyberNights-5/assets/107263975/0c893f5e-7652-41ae-93c6-24425ab45e04)
 
 
 After following the HTTP stream, we end up with 4 interesting requests, 3 of them contains `weird text`.
